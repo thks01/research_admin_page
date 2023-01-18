@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/research_admin_page/static/css/main.9a9ff1fd.css",
+    "main.js": "/research_admin_page/static/js/main.e48f3fea.js",
+    "index.html": "/research_admin_page/index.html",
+    "main.9a9ff1fd.css.map": "/research_admin_page/static/css/main.9a9ff1fd.css.map",
+    "main.e48f3fea.js.map": "/research_admin_page/static/js/main.e48f3fea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a9ff1fd.css",
+    "static/js/main.e48f3fea.js"
+  ]
+}
